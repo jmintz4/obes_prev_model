@@ -1,5 +1,4 @@
-# obes_prev_model
-Predicting the Prevalence of Obesity in U.S. Counties
+# Predicting the Prevalence of Obesity in U.S. Counties
 
 # Overview and Problem Statement
 What are the most important socioeconomic or food insecurity factors in predicting the prevalence of obesity in U.S. counties?  And how reliable are these factors in accurately predicting obesity prevalence?
